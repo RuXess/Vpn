@@ -1,6 +1,6 @@
 #profile-update-interval: 3
 #profile-title: RuXess VPN
-#profile-web-page-url: https://t.me/RuXess
+#support-url: https://t.me/RuXess
 #announce: Обход блокировки YouTube, Telegram и черных списков. Обновление от 07.04
 
 
