@@ -1,5 +1,7 @@
 #profile-update-interval: 3
 #profile-title: Happ VPN YouTube и Telegram
+#support-url: https://t.me/RuXess
+#profile-web-page-url: https://t.me/RuXess
 #announce: Обновление от 07.04
 
 
