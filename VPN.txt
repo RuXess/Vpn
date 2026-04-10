@@ -93,3 +93,8 @@ vless://901e1ec2-828e-48fd-adae-93ff63e1f8b7@51.250.126.221:443?security=reality
 vless://6c024de2-f630-4877-aeba-1a95ef5a8b4f@51.250.117.39:443?security=reality&encryption=none&pbk=EzS6YGgfE-F0jR0-xXB5rVBh-1oNSC17oquln8hK4Wo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=dce3019e#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23149
 vless://10a0d734-05fa-4399-a86c-ebb4283dbde9@51.250.117.39:443?security=reality&encryption=none&pbk=EzS6YGgfE-F0jR0-xXB5rVBh-1oNSC17oquln8hK4Wo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=dce3019e#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23150
 vless://043b5b85-184f-464b-b46c-d4903f336373@51.250.126.221:443?security=reality&encryption=none&pbk=2Ea-rod_ya4aiuRbjC4qwzjZmXdjnjW9n_5Z4DI6M0k&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=8f64bb95#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23155
+vless://506e4a91-1d05-5683-b84c-2113f673cb19@172.67.69.152:443/?type=ws&encryption=none&flow=&host=vltj.qzz.io&path=%2Fid-pusat&security=tls&sni=vltj.qzz.io&allowInsecure=1#%F0%9F%8F%8173%40oneclickvpnkeys
+
+vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@188.126.76.159:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&security=reality&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2#%F0%9F%87%B8%F0%9F%87%AA%2060%40oneclickvpnkeys
+
+vmess://eyJhZGQiOiIyMTYuMTA2LjE4NS4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoi8J+HuvCfh7ggMThAb25lY2xpY2t2cG5rZXlzICIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
